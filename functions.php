@@ -2,7 +2,7 @@
 
 function prettyPrint(string $value): void
 {
-    echo '<pre>';
+    echo "<pre>";
     echo "$value";
-    echo '</pre>';
+    echo "</pre>";
 }
