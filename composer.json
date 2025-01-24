@@ -4,5 +4,6 @@
   "require": {
     "php": ">=8.2"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "minimum-stability": "stable"
 }
